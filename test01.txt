@@ -1,1 +1,2 @@
 This is just a test file to test Git commands
+Line two
